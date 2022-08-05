@@ -1,2 +1,2 @@
 # InterviewBit-Databases
-Trying to solve all interviewbit questions
+Trying to solve all interviewbit databases questions
