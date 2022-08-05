@@ -1,1 +1,1 @@
-
+SELECT MAX(PeopleSaved) - MIN(PeopleSaved) FROM FIREFIGHTERS;
